@@ -1,6 +1,6 @@
 # Bem vindo(a) a página personalizada para sua loja !
 
-# Acesse em: https://felippefms.github.io/pagina-personalizada
+# Acesse em: https://felippefms.github.io/pagina-customizada/
 
 Acesse o projeto, entre em contato e contrate uma página para sua loja.
 
