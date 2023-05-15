@@ -4,8 +4,9 @@
 
 Acesse o projeto, entre em contato e contrate uma página para sua loja.
 
-![preview1]()
-![preview2]()
+![preview1](https://github.com/felippefms/pagina-customizada/blob/main/src/media/imgs/preview1.png?raw=true)
+![preview2](https://github.com/felippefms/pagina-customizada/blob/main/src/media/imgs/preview2.png?raw=true)
+![preview3](https://github.com/felippefms/pagina-customizada/blob/main/src/media/imgs/preview3.png?raw=true)
 
 ***
 
